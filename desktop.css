@@ -3,6 +3,7 @@ header{
     display: flex;
     position:fixed;
     width: 100%;
+    top: 0;
 }
 .heading{
     padding: 2vw;
