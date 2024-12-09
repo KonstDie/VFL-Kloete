@@ -13,9 +13,9 @@ header{
 body {
     background: repeating-linear-gradient(
       50deg, /* Winkel des Musters */
-      #a1c4fd, /* Farbe 1 */
+      #ff0000, /* Farbe 1 */
       #a1c4fd 20px, /* Abstand für das erste Muster */
-      #c2e9fb 20px, /* Farbe 2 */
+      #fbc2c2 20px, /* Farbe 2 */
       #c2e9fb 40px /* Abstand für das zweite Muster */
     );
     margin: 0;
