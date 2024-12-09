@@ -4,8 +4,8 @@ header{
     border-radius: 1vw;
     font-size: 4vw;
     display:inline-block;
-    align-items: center;
 }
 .heading{
     padding: 2vw;
+    text-align: center;
 }
