@@ -3,6 +3,7 @@ header{
     text-align: center;
     border-radius: 1vw;
     font-size: 4vw;
+    position: fixed;
 }
 .heading{
     padding: 2vw;
