@@ -2,7 +2,7 @@ header{
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 1vw;
     font-size: 4vw;
-    position: fixed;
+    position:static;
 }
 .heading{
     padding: 2vw;
